@@ -10,7 +10,7 @@ Projeto desenvolvido em Java focado em praticar lógica de programação, estrut
   * Subtração (-)
   * Multiplicação (*)
   * Divisão (/)
-* **Validação de Erros:** Sistema que impede e avisa caso ocorra uma tentativa de divisão por zero.
+* **Validação de Erros:** Onde o sistema impede e avisa caso ocorra uma tentativa de divisão por zero.
 
 # Tecnologias utilizadas
 
