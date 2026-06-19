@@ -25,3 +25,6 @@ Projeto desenvolvido em Java focado em praticar lógica de programação, estrut
 * Estruturas condicionais (`if` / `else`)
 * Controle de fluxo (`switch-case`)
 * Entrada de dados (`Scanner`)
+  
+# Demonstração do funcionamento
+![Demonstração](calculadora.png)
